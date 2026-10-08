@@ -9,7 +9,7 @@ Itch Page: https://princessbleach.itch.io/gatcha-cat-wars
 
 *Note, Ignore CPP files, these were made before writing the C files as a mistake.*
 
-<img src="(https://github.com/princessbleach/CatGatcha/blob/main/CatDistributionSystem/CatFight.gif?raw=true)" width="200"/>
+![gif](https://raw.githubusercontent.com/princessbleach/CatGatcha/refs/heads/main/CatDistributionSystem/CatFight.gif)
 
 *Gif working game in browser.*
 
@@ -17,7 +17,7 @@ Itch Page: https://princessbleach.itch.io/gatcha-cat-wars
 
 I made a cat-collecting and battling game developed using C and raylib. The game features different cat rarities, a collection system, biscuit rewards, and battles.
 
-Players sart with 10 biscuits and spend one biscuit to "roll" to collect different cat breeds (which are randomly selected from the cat breed database API). Some are rarer than others and the number of cats, unique breeds and biscuits are recorded. Higher rarity cats have better health, attacks and higher biscuit rewards. If the player collects a rarer cat, they are rewarded with biscuits.
+Players start with 10 biscuits and spend one biscuit to "roll" to collect different cat breeds (which are randomly selected from the cat breed database API). Some are rarer than others and the number of cats, unique breeds and biscuits are recorded. Higher rarity cats have better health, attacks and higher biscuit rewards. If the player collects a rarer cat, they are rewarded with biscuits.
 
 The battle aspect is turn-based, with three options: attack, special and defend. Special abilities are dependent on cat rarity. 
 
