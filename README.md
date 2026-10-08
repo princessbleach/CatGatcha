@@ -9,6 +9,9 @@ Itch Page: https://princessbleach.itch.io/gatcha-cat-wars
 
 *Note, Ignore CPP files, these were made before writing the C files as a mistake.*
 
+![https://github.com/princessbleach/CatGatcha/blob/main/CatDistributionSystem/CatFight.gif?raw=true]
+*Gif working game in browser.*
+
 ## The Gatcha Cat Fighter
 
 I made a cat-collecting and battling game developed using C and raylib. The game features different cat rarities, a collection system, biscuit rewards, and battles.
