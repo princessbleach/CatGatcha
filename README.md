@@ -10,6 +10,7 @@ Itch Page: https://princessbleach.itch.io/gatcha-cat-wars
 *Note, Ignore CPP files, these were made before writing the C files as a mistake.*
 
 <img src="(https://github.com/princessbleach/CatGatcha/blob/main/CatDistributionSystem/CatFight.gif?raw=true)" width="200"/>
+
 *Gif working game in browser.*
 
 ## The Gatcha Cat Fighter
